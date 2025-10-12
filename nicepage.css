@@ -47346,8 +47346,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-icon-1 {
-  height: 100%;
-  color: rgb(210, 34, 21) !important;
+  height: 0;
 }
 
 .u-header .u-icon-2 {
