@@ -171,11 +171,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 649px;
+    min-height: 588px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 101px;
+    margin-top: 65px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -211,7 +211,7 @@
 
   .u-section-1 .u-icon-3 {
     margin-top: 165px;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
   }
 } .u-section-2 {
   background-position: 50% 50%;
@@ -537,27 +537,30 @@
   .u-section-2 .u-btn-1 {
     margin-left: auto;
     padding-top: 8px;
-    padding-right: 6px;
+    padding-right: 53px;
+    padding-left: 51px;
   }
 
   .u-section-2 .u-btn-2 {
     margin-top: 166px;
     margin-right: auto;
-    padding-right: 11px;
-    padding-left: 10px;
+    padding-right: 58px;
+    padding-left: 56px;
   }
 
   .u-section-2 .u-btn-3 {
     margin-top: -196px;
     margin-left: auto;
     padding-top: 8px;
-    padding-right: 11px;
+    padding-right: 57px;
+    padding-left: 57px;
   }
 
   .u-section-2 .u-btn-4 {
     margin-top: 22px;
-    margin-right: auto;
-    padding: 7px 27px 8px 26px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 7px 73px 8px;
   }
 } .u-section-3 {
   background-repeat: no-repeat;
@@ -592,6 +595,7 @@
   background-size: cover;
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -630,6 +634,7 @@
   background-size: cover;
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -782,6 +787,7 @@
   background-size: cover;
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-11 {
@@ -838,16 +844,11 @@
     width: 940px;
   }
 
-  .u-section-3 .u-image-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-group-1 {
     height: auto;
   }
 
   .u-section-3 .u-image-3 {
-    background-position: 50% 50%;
     min-height: 283px;
   }
 
@@ -891,7 +892,6 @@
   }
 
   .u-section-3 .u-image-7 {
-    background-position: 50% 50%;
     min-height: 264px;
   }
 
