@@ -47375,6 +47375,7 @@ a.u-link.u-text-hover-color-var:hover {
   font-weight: 500;
   font-size: 1rem;
   text-transform: uppercase;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -47393,14 +47394,14 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-menu-1 {
     margin-right: auto;
   }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
     margin-top: 21px;
+  }
+
+  .u-header .u-icon-2 {
+    height: 28px;
   }
 
   .u-header .u-menu-1 {
@@ -47429,15 +47430,29 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 165px;
+    min-height: 108px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 14px;
+    margin-top: 15px;
+  }
+
+  .u-header .u-social-icons-1 {
+    height: 23px;
+    width: 139px;
+    margin-top: 8px;
   }
 
   .u-header .u-menu-1 {
-    margin-bottom: 18px;
+    width: auto;
+    margin-top: -77px;
+    margin-bottom: 48px;
+    margin-left: -23px;
+  }
+
+  .u-header .u-hamburger-link-1 {
+    font-size: calc(1em + 13.7344px);
+    padding: 7px 8px;
   }
 }
  .u-footer {
